@@ -2,13 +2,30 @@
 
 **Front-End & WordPress Developer** | Elementor • Performance • SEO
 
-- 🛠 Recent work:  Zenith Digital Labs, Inkspire Ghostwriters, AM2EX, Oberonex  
-- 🌱 Learning: Advanced JavaScript, Core Web Vitals, modern WordPress tooling  
-- 💬 Ask me about: Elementor, WordPress performance, SEO basics  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/momina-muzafar)
+🚀 I specialize in building responsive, high-performance websites using WordPress & Elementor.  
+💡 Passionate about optimizing Core Web Vitals and creating smooth user experiences.
 
-## Tech
-HTML • CSS • JavaScript • WordPress • Elementor • WooCommerce • PHP • MySQL • Git • SEO Optimization • Responsive Design • cPanel 
-## Highlights
-- Improved page load times by ~30% on client sites with caching, image compression, and layout shift fixes  
-- Built reusable Elementor components to speed up delivery and maintainability  
+---
+
+## 🔹 Skills
+HTML • CSS • JavaScript • WordPress • Elementor • WooCommerce • PHP • MySQL • Git • SEO Optimization • Responsive Design • cPanel
+
+---
+
+## 💼 Featured Projects
+- **[Zenith Digital Labs](https://zenithdigitallabs.com/)** – Digital agency site built from scratch.
+- **[Inkspire Ghostwriters](https://inkspireghostwriters.com/)** – Content agency website.
+- **[AM2EX E-commerce](https://am2ex.com/)** – Fully functional WooCommerce store.
+- **[Oberonex E-Learning](https://learn.oberonex.com/)** – E-learning platform offering course modules and training solutions.
+- **[Oberonex](https://oberonex.com/)** – Corporate site for IT solutions, consulting, and web development.
+
+---
+
+## 📬 Contact
+- **LinkedIn:** [linkedin.com/in/momina-muzafar](https://www.linkedin.com/in/momina-muzafar)
+- **Email:** mominamuzafar.dev@gmail.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mominamuzafar&show_icons=true&theme=tokyonight)
+
