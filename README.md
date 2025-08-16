@@ -1,14 +1,14 @@
 # Hi, I'm Momina 👋
 
-**Front-End & WordPress Developer** | Elementor • Performance • SEO
+**Front-End Developer | WordPress & Shopify Specialist** | Elementor • Performance • SEO
 
-🚀 I specialize in building responsive, high-performance websites using WordPress & Elementor.  
+🚀 I specialize in building responsive, high-performance websites using WordPress, Elementor, and Shopify.  
 💡 Passionate about optimizing Core Web Vitals and creating smooth user experiences.
 
 ---
 
 ## 🔹 Skills
-HTML • CSS • JavaScript • WordPress • Elementor • WooCommerce • PHP • MySQL • Git • SEO Optimization • Responsive Design • cPanel
+HTML • CSS • JavaScript • WordPress • Elementor • WooCommerce • Shopify • PHP • MySQL • Git • SEO Optimization • Responsive Design • cPanel
 
 ---
 
